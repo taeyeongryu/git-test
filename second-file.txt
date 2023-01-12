@@ -1,2 +1,2 @@
 클론한 저장소에서 추가한 파일
-git-test-cloned 저장소에서 변경
+git-test-cloned에서 변경한게 맞습니다!
